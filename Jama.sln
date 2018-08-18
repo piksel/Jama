@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jama", "Jama\Jama.csproj", "{FE87B281-6043-4F6B-BF17-241756465EC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jama", "src\Jama\Jama.csproj", "{FE87B281-6043-4F6B-BF17-241756465EC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piksel.GrowlLib", "JamaLib\Piksel.GrowlLib.csproj", "{7234B240-9D0F-45B4-86AE-10BFF0B4F25C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piksel.GrowlLib", "src\GrowlLib\Piksel.GrowlLib.csproj", "{7234B240-9D0F-45B4-86AE-10BFF0B4F25C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{969D7BCF-5D6C-4E7F-A4B9-C11673574436}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleGrowlServer", "ExampleGrowlServer\ExampleGrowlServer.csproj", "{B3DC04A1-ACE5-486D-8F20-F9C5C4CB2166}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleGrowlServer", "Examples\ExampleGrowlServer\ExampleGrowlServer.csproj", "{B3DC04A1-ACE5-486D-8F20-F9C5C4CB2166}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
